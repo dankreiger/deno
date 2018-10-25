@@ -96,7 +96,7 @@ isolate-0x7fad98242400-v8.log
 
 ## Build instructions (for advanced users only)
 
-### Prerequisists:
+### Prerequisites:
 
 To ensure reproducible builds, Deno has most of its dependencies in a git
 submodule. However, you need to install separately:
